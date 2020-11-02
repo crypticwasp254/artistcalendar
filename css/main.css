@@ -119,6 +119,8 @@ body {
 }
 
 .main-hero .feature-info {
+  -webkit-transition: 1000ms all;
+  transition: 1000ms all;
   width: 25vw;
   position: absolute;
   right: 2em;
